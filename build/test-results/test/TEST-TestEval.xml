@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestEval" tests="33" skipped="0" failures="0" errors="0" timestamp="2021-09-26T22:53:25" hostname="Cathys-MacBook-Pro.local" time="0.142">
+  <properties/>
+  <testcase name="testGreaterThanOrEquals" classname="TestEval" time="0.075"/>
+  <testcase name="testLessThan" classname="TestEval" time="0.0"/>
+  <testcase name="testAnd" classname="TestEval" time="0.005"/>
+  <testcase name="testDay" classname="TestEval" time="0.001"/>
+  <testcase name="testNat" classname="TestEval" time="0.001"/>
+  <testcase name="testUnary" classname="TestEval" time="0.008"/>
+  <testcase name="testUnion" classname="TestEval" time="0.002"/>
+  <testcase name="testDiff" classname="TestEval" time="0.001"/>
+  <testcase name="testProd" classname="TestEval" time="0.0"/>
+  <testcase name="testSale" classname="TestEval" time="0.001"/>
+  <testcase name="testSize" classname="TestEval" time="0.004"/>
+  <testcase name="testFreeVar" classname="TestEval" time="0.001"/>
+  <testcase name="testOr" classname="TestEval" time="0.004"/>
+  <testcase name="testEquivalence" classname="TestEval" time="0.002"/>
+  <testcase name="testGreaterThan" classname="TestEval" time="0.001"/>
+  <testcase name="testSetComprehension" classname="TestEval" time="0.005"/>
+  <testcase name="testSalesForD" classname="TestEval" time="0.002"/>
+  <testcase name="testSalesForM" classname="TestEval" time="0.001"/>
+  <testcase name="testSalesForP" classname="TestEval" time="0.002"/>
+  <testcase name="testIntersection" classname="TestEval" time="0.0"/>
+  <testcase name="testEquals" classname="TestEval" time="0.001"/>
+  <testcase name="testExists" classname="TestEval" time="0.005"/>
+  <testcase name="testForall" classname="TestEval" time="0.002"/>
+  <testcase name="testSalesAt" classname="TestEval" time="0.001"/>
+  <testcase name="testImplies" classname="TestEval" time="0.002"/>
+  <testcase name="testLessThanOrEquals" classname="TestEval" time="0.001"/>
+  <testcase name="testNotEquals" classname="TestEval" time="0.001"/>
+  <testcase name="testNumDiv" classname="TestEval" time="0.002"/>
+  <testcase name="testNumSum" classname="TestEval" time="0.0"/>
+  <testcase name="testNumDiff" classname="TestEval" time="0.0"/>
+  <testcase name="testNumProd" classname="TestEval" time="0.001"/>
+  <testcase name="testSetEquality" classname="TestEval" time="0.001"/>
+  <testcase name="testNumDivByZero" classname="TestEval" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
